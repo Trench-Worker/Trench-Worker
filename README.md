@@ -1,19 +1,16 @@
-# Hey, I'm Trench-Worker
+# Trench-Worker
 
-Learning Python by shipping small, real projects — things I can run, test, and share.
+Learning Python. Shipping real projects.
 
-## Featured
+The alternative was 47 unfinished tutorials. We do not speak of this.
 
-**[code-or-die](https://github.com/Trench-Worker/code-or-die)** — a Python quiz CLI.
-
-JSON question packs, letter grades, `pytest`, and GitHub Actions CI. Standard library only.
+**[code-or-die](https://github.com/Trench-Worker/code-or-die)** — a quiz CLI.
+It loads JSON, scores you, and hands out a letter grade. Brutal but fair.
 
 ```bash
 python -m quiz_cli --demo
 ```
 
-## Currently learning
+Has tests. Has CI. Has no framework.
 
-Python for CLI tools, packaging, and tests — plus READMEs that other people can actually use.
-
-More projects coming.
+More soon.
