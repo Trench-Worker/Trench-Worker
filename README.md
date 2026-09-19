@@ -1,16 +1,22 @@
 # Trench-Worker
 
-Learning Python. Shipping real projects.
+I write CLIs that grade you. Then another CLI that grades the grades.
+The circle of life, except it's JSON and nobody asked.
 
-The alternative was 47 unfinished tutorials. We do not speak of this.
+## Featured
 
-**[code-or-die](https://github.com/Trench-Worker/code-or-die)** — a quiz CLI.
-It loads JSON, scores you, and hands out a letter grade. Brutal but fair.
+**[code-or-die](https://github.com/Trench-Worker/code-or-die)** — quiz CLI.
+You pick letters. It picks a grade. Survival is a letter, not a vibe.
 
 ```bash
 python -m quiz_cli --demo
 ```
 
-Has tests. Has CI. Has no framework.
+**[quiz-report](https://github.com/Trench-Worker/quiz-report)** — pathlib result reporter.
+Folder of scores in. Markdown out. No dashboard. No cloud. No feelings.
 
-More soon.
+```bash
+python -m quiz_report --input data/samples --demo
+```
+
+Python 3.10+. Tests exist. Slide decks do not.
