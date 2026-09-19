@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Trench-Worker
 
-<!--
-**Trench-Worker/Trench-Worker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Python by shipping small, real projects — things I can run, test, and share.
 
-Here are some ideas to get you started:
+## Featured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[code-or-die](https://github.com/Trench-Worker/code-or-die)** — a Python quiz CLI.
+
+JSON question packs, letter grades, `pytest`, and GitHub Actions CI. Standard library only.
+
+```bash
+python -m quiz_cli --demo
+```
+
+## Currently learning
+
+Python for CLI tools, packaging, and tests — plus READMEs that other people can actually use.
+
+More projects coming.
